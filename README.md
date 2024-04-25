@@ -28,8 +28,11 @@ Classes Included:
 14. Class ComputerAssembly
 15. Class Computer (Covering all the above classes)
 
+Here is the link to [UML Diagram.pdf](https://github.com/AKA-5/C-OOP/files/15113156/UML.Diagram.pdf)
+
  
 We will create a new Computer Object (PC or Mac) by taking all necessary 
 specifications from user. In case of an incorrect input, our code will provide the error to the user and restart the 
 process. Finally, we will display the specifications and the price of the computer. 
- 
+
+
